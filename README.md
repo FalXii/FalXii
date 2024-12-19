@@ -1,7 +1,4 @@
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header">
-
 <h1 align="center">Hello, I'm <span style="color: #4A90E2;">Fal INV</span> 👋</h1>
 <h3 align="center" style="font-weight: bold;">Aspiring Developer on an Exciting Journey</h3>
 
