@@ -10,7 +10,7 @@
 
 - 💻 **What I Do**: I Enjoy `Developing Bots Using Javascript`
 - 🌱 **Learning Journey**: Currently diving into **Next.js** and exploring **API integrations**.  
-- 🐾 **Fun Fact**: I am still `14 years old`
+- 🐾 **Fun Fact**: I am still `15 years old`
 - 💬 **Reach Me on Discord**: `iFalXi#2263`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
